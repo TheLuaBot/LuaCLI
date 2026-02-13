@@ -1,0 +1,15 @@
+# Pastas de Build (Executáveis)
+dist/
+build/
+bin/
+
+# Dependências
+node_modules/
+
+# Arquivos de Log e Runtime do Bun
+bun.lockb
+*.log
+
+# Arquivos de Configuração Sensíveis
+.env
+config.json
