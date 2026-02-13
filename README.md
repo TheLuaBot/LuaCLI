@@ -1,6 +1,6 @@
 # 💻 LuaCLI
 
-<img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"> ![Static Badge](https://img.shields.io/badge/CI%3A-failing-red)
+<img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"> ![CI Status](https://github.com/TheLuaBot/LuaCLI/actions/workflows/release.yml/badge.svg)
 ![Static Badge](https://img.shields.io/badge/LuaBot-Integration-blue) ![Static Badge](https://img.shields.io/badge/License-MIT_License-limon)
 
 <div align="center">
